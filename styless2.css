@@ -1,4 +1,14 @@
 
+
+
+body{
+
+  background-image: url(file:///C:/Users/dell1234/OneDrive/Documenten/GitHub/challenge3/dodsrest.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left top;
+  background-color: lightblue;
+}
  .u-section-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("dodsrest.jpeg");
   background-position: 50% 50%;
