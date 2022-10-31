@@ -74,3 +74,8 @@ body{
     width: 340px;
   }
 }
+
+#menukaart {
+  position: relative;
+  left: -75px;
+}
