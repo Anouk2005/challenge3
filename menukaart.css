@@ -79,3 +79,25 @@ body{
   position: relative;
   left: -75px;
 }
+#mySidenav a {
+  position: absolute; 
+  left: -80px; 
+  top: 1000px;
+  transition: 0.6s;
+  padding: 15px; 
+  width: 125px; 
+  text-decoration: none; 
+  font-size: 12px; 
+  color: white; 
+  border-radius: 0 5px 5px 0; 
+}
+
+#mySidenav a:hover {
+  left: 0; 
+}
+
+#Reserveren {
+  top: 20px;
+  background-color: black
+}
+
