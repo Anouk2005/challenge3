@@ -104,3 +104,193 @@ body{
   top: 1065px;
   background-color: black
 }
+
+#warmedranken {
+  position: absolute;
+  top: 1200px;
+  left: 50px;
+  width: 350px;
+  height: 200px;
+}
+#frisdranken {
+  position: absolute;
+  top: 1700px;
+  left: 1125px;
+  width: 350px;
+  height: 200px;
+}
+#bieren {
+  position: absolute;
+  top: 2400px;
+  left: 50px;
+  width: 350px;
+  height: 200px;
+}
+#likeuren {
+  position: absolute;
+  top: 3400px;
+  left: 1125px;
+  width: 350px;
+  height: 200px;
+}
+#aperitieven {
+  position: absolute;
+  top: 4230px;
+  left: 50px;
+  width: 350px;
+  height: 200px;
+}
+#cocktails {
+  position: absolute;
+  top: 4600px;
+  left: 1125px;
+  width: 350px;
+  height: 200px;
+}
+#gin-tonics {
+  position: absolute;
+  top: 4875px;
+  left: 50px;
+  width: 350px;
+  height: 200px;
+}
+#shots {
+  position: absolute;
+  top: 5275px;
+  left: 1125px;
+  width: 350px;
+  height: 200px;
+}
+#port {
+  position: absolute;
+  top: 5500px;
+  left: 50px;
+  width: 350px;
+  height: 200px;
+}
+#grappa {
+  position: absolute;
+  top: 5850px;
+  left: 1125px;
+  width: 350px;
+  height: 200px;
+}
+#rose-wijnen {
+  position: absolute;
+  top: 6275px;
+  left: 50px;
+  width: 350px;
+  height: 200px;
+}
+#bubbels {
+  position: absolute;
+  top: 6600px;
+  left: 1125px;
+  width: 350px;
+  height: 200px;
+}
+#witte-wijnen {
+  position: absolute;
+  top: 7600px;
+  left: 50px;
+  width: 350px;
+  height: 200px;
+}
+#rode-wijnen {
+  position: absolute;
+  top: 8600px;
+  left: 1125px;
+  width: 350px;
+  height: 200px;
+}
+#tom-kha-kai {
+  position: absolute;
+  top: 9450px;
+  left: 50px;
+  width: 350px;
+  height: 200px;
+}
+#clubsandwich {
+  position: absolute;
+  top: 9720px;
+  left: 1125px;
+  width: 350px;
+  height: 200px;
+}
+#tosti {
+  position: absolute;
+  top: 9950px;
+  left: 50px;
+  width: 350px;
+  height: 200px;
+}
+#broodje-carpaccio {
+  position: absolute;
+  top: 10450px;
+  left: 1125px;
+  width: 350px;
+  height: 200px;
+}
+#broodje-tonijnsalade {
+  position: absolute;
+  top: 10650px;
+  left: 50px;
+  width: 350px;
+  height: 200px;
+}
+#uitsmijter-ham-kaas {
+  position: absolute;
+  top: 10900px;
+  left: 1125px;
+  width: 350px;
+  height: 200px;
+}
+#pizza-margherita {
+  position: absolute;
+  top: 11450px;
+  left: 50px;
+  width: 350px;
+  height: 200px;
+}
+#pizza-diavolo {
+  position: absolute;
+  top: 11650px;
+  left: 1125px;
+  width: 350px;
+  height: 200px;
+}
+#pizza-quattro-formaggio {
+  position: absolute;
+  top: 11850px;
+  left: 50px;
+  width: 350px;
+  height: 200px;
+}
+#pasta {
+  position: absolute;
+  top: 12400px;
+  left: 1125px;
+  width: 350px;
+  height: 200px;
+}
+#caesar-salade {
+  position: absolute;
+  top: 12800px;
+  left: 50px;
+  width: 350px;
+  height: 200px;
+}
+#knoflookbrood {
+  position: absolute;
+  top: 13350px;
+  left: 1125px;
+  width: 350px;
+  height: 200px;
+}
+#bruschetta {
+  position: absolute;
+  top: 14200px;
+  left: 50px;
+  width: 350px;
+  height: 200px;
+}
