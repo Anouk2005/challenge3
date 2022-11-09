@@ -79,6 +79,10 @@ body{
   position: relative;
   left: -75px;
 }
+#australische-gerechten {
+  position: relative;
+  width: 1500px;
+}
 #mySidenav a {
   position: absolute; 
   left: -80px; 
