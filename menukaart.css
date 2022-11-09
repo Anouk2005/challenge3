@@ -305,3 +305,24 @@ body{
   width: 350px;
   height: 200px;
 }
+#tiramisu {
+  position: absolute;
+  top: 15850px;
+  left: 50px;
+  width: 350px;
+  height: 200px;
+}
+#meatloaf {
+  position: absolute;
+  top: 17100px;
+  left: 1125px;
+  width: 350px;
+  height: 200px;
+}
+#pavlova {
+  position: absolute;
+  top: 17300px;
+  left: 50px;
+  width: 350px;
+  height: 200px;
+}
